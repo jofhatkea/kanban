@@ -6,9 +6,9 @@ export default function Main(props) {
     <section className="Main">
       <h1>Main</h1>
       <Form />
-      <ListContainer title="Todo" />
-      <ListContainer title="Doing" />
-      <ListContainer title="Done" />
+      <ListContainer cards={props.cards} title="Todo" />
+      <ListContainer cards={props.cards} title="Doing" />
+      <ListContainer cards={props.cards} title="Done" />
     </section>
   );
 }
