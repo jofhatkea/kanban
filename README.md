@@ -11,3 +11,9 @@ Reference repo: https://github.com/jofhatkea/kanban
 1. pass down "cards" from App to ListContainer
 2. Pass down props to each card (in the map function in ListContainer)
 3. Use the props in Card
+
+## Learning goals for Monday
+
+1. A basic understanding of components
+2. and props
+3. and state
