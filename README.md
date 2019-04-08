@@ -4,10 +4,10 @@
 2. Install dependencies (npm install or yarn install)
 3. Start the server (npm start or yarn start)
 
-## Assignment
+## Assignment until 11:45 - after lunch: events
 
 Reference repo: https://github.com/jofhatkea/kanban
 
-1. pass down "cards" from App to Listitem
+1. pass down "cards" from App to ListContainer
 2. Pass down props to each card (in the map function in ListContainer)
 3. Use the props in Card
